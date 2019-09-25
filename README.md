@@ -19,5 +19,5 @@
  <li>Seaborn - Count Plot</li>
  <li>Word Cloud</li>
 </ol>
-<b>Kaggle Url 👉🏻 <a href="https://www.kaggle.com/kernels/scriptcontent/20912028/notebook">Crimes Data Analysis and Visualzation (EDA)
+<b>Kaggle Url 👉🏻 <a href="https://www.kaggle.com/ismailsefa/google-play-store-apps-data-analysis-eda/notebook">Google Play Store Apps Data Analysis (EDA)
 </a></b>
